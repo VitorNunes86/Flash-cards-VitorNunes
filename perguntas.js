@@ -1,23 +1,23 @@
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta',
+    'Conhecimentos gerais',
+    'De onde é a invenção do chuveiro elétrico?',
+    'Brasil',
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta',
+    'Geografia',
+    'Quais o menor e o maior país do mundo?',
+    'Vaticano e Rússia',
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta',
+    'Matemática',
+    'Quantas casas decimais tem o número pi?',
+    ' Infinitas',
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta',
+    'Quimica',
+    'Atualmente, quantos elementos químicos a tabela periódica possui?',
+    '118',
 )
